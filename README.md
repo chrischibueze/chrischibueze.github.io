@@ -12,7 +12,7 @@ Lane Line detection is a critical component for self driving cars and also for c
 In this article, we will build a machine learning project to detect lane lines in real-time. We will do this using the concepts of computer vision using OpenCV library. To detect the lane we have to detect the white markings on both sides on the lane.
 
 
-#[project3; Color recognition] (https://github.com/chrischibueze/Colour-Recognition-using-Pandas-and-OpenCV)
+#[project3; Color recognition using Pandas and OpenCV] (https://github.com/chrischibueze/Colour-Recognition-using-Pandas-and-OpenCV)
 
 I worked on colors and you will get to learn about many concepts throughout this project. Colour detection is necessary to recognize objects, it is also used as a tool in various image editing and drawing apps.
 
